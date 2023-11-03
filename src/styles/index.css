@@ -39,6 +39,10 @@ li {
     margin: auto;
 }
 
+.hide{
+  display: none;
+}
+
   .task{
     justify-content: space-between; 
     display: flex; 
